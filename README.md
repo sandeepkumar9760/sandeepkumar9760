@@ -54,8 +54,8 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/sandeepkumar9760](https://linkedin.com/in/sandeepkumar9760)
-- **Email:** [Reach out for collaborations or opportunities!]
+- **LinkedIn:** 💼 LinkedIn: [linkedin.com/in/sandeep-kumar-ds](https://linkedin.com/in/sandeep-kumar-ds)
+- **Email:** 📧 Email: [sandeepkumar270724@email.com](mailto:sandeepkumar270724@email.com)
 - **GitHub:** You're already here!
 
 ---
