@@ -26,7 +26,8 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" title="Scikit-learn"/>
 <img src="https://matplotlib.org/stable/_static/logo2.svg"
      width="42" title="Matplotlib (matplotlib.pyplot)"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" width="42" title="Seaborn"/>
+<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg"
+     width="42" title="Seaborn (Statistical Visualization)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" title="Jupyter Notebook"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="42" title="Anaconda"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="42" title="Power BI"/>
