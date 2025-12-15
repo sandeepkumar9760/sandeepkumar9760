@@ -1,9 +1,9 @@
 #                                                                                       Hey there! 👋 I'm Sandeep Kumar
-
+<p align="centre">
 **Aspiring Data Scientist | ML Enthusiast | Python Developer**
 
 Welcome to my GitHub profile! I'm a computer science student at Lovely Professional University (LPU) passionate about **data science, machine learning, and building intelligent solutions** with data.
-
+</p>
 ---
 
 ## 🚀 About Me
@@ -38,9 +38,7 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" title="Scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" title="Jupyter Notebook"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="42" title="Power BI"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="42" title="Microsoft Excel"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canva_Logo.png" width="42" title="Canva"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="42" title="Microsoft Excel"/>
 </p>
 
 ---
