@@ -16,22 +16,43 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 
 ---
 
-## 💼 Skills
+## 🧰 Skills
 
-**Languages & Tools:**
-- Python | SQL | JavaScript/TypeScript
-- Pandas, NumPy, scikit-learn, Jupyter Notebook
-- Power BI | Excel | Canva
-- Git & GitHub | VS Code
-
-**Key Competencies:**
-- Machine Learning (Regression, Classification, Clustering)
-- Exploratory Data Analysis (EDA)
-- Data Visualization & Business Intelligence
-- API Development & Full-Stack Basics
-- Problem Solving & Algorithm Design
+### 🔧 Languages & Development Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="SQL / MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
+</p>
 
 ---
+
+### 📊 Data Science & Analytics Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" title="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" title="Jupyter Notebook"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="42" title="Microsoft Excel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canva_Logo.png" width="42" title="Canva"/>
+</p>
+
+---
+
+### 🧠 Core Competencies
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="42" title="Machine Learning (Regression, Classification, Clustering)"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149644.png" width="42" title="Exploratory Data Analysis (EDA)"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="42" title="Data Visualization & Business Intelligence"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="42" title="API Development & Full-Stack Basics"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="42" title="Problem Solving & Algorithm Design"/>
+</p>
+
 
 ## 📁 Featured Projects
 
