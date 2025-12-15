@@ -1,4 +1,4 @@
-#Hey there! 👋 I'm Sandeep Kumar
+# Hey there! 👋 I'm Sandeep Kumar
 **Aspiring Data Scientist | ML Enthusiast | Python Developer**
 
 Welcome to my GitHub profile! I'm a computer science student at Lovely Professional University (LPU) passionate about **data science, machine learning, and building intelligent solutions** with data.
@@ -41,18 +41,28 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 </p>
 
 
-## 📁 Featured Projects
+## 📂 Featured Projects
 
-**📈 [Airbnb Stock Price Prediction](https://github.com/sandeepkumar9760/Airbnb-stock-prediction)**
-- Machine learning model using regression and technical analysis
-- Predicts Airbnb (ABNB) stock prices with historical market data
-- Built with Python, Jupyter Notebook, scikit-learn
+### 📈 Airbnb Stock Price Prediction  
+🔗 **Repository:** [Airbnb Stock Price Prediction](https://github.com/your-username/airbnb-stock-price-prediction)
 
-**🐍 [Python Learning Repository](https://github.com/sandeepkumar9760/python-project)**
-- Collection of Python scripts and practice problems
-- Data science algorithms and problem-solving exercises
+- Developed a **machine learning regression model** combined with **technical analysis**
+- Predicted **Airbnb (ABNB) stock prices** using historical market data
+- Performed data preprocessing, feature engineering, and model evaluation
+- **Tech Stack:** Python · Pandas · NumPy · Scikit-learn · Jupyter Notebook
 
 ---
+
+### 🐍 Python Learning Repository  
+🔗 **Repository:** [Python Learning Repository](https://github.com/your-username/python-learning-repository)
+
+- Curated collection of **Python scripts and hands-on practice problems**
+- Implemented **data science algorithms** and logic-building exercises
+- Focused on **problem-solving, clean code, and fundamentals**
+- **Topics Covered:** Python Basics · DSA Concepts · Data Science Foundations
+
+---
+
 
 ## 📊 GitHub Stats
 
