@@ -1,10 +1,8 @@
-#                                                                                       Hey there! 👋 I'm Sandeep Kumar
-<p align="centre">
+#Hey there! 👋 I'm Sandeep Kumar
 **Aspiring Data Scientist | ML Enthusiast | Python Developer**
 
 Welcome to my GitHub profile! I'm a computer science student at Lovely Professional University (LPU) passionate about **data science, machine learning, and building intelligent solutions** with data.
 </p>
----
 
 ## 🚀 About Me
 
@@ -14,11 +12,8 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 - 📊 Building projects that solve real-world problems with data
 - 🌱 Continuously learning and exploring new technologies in AI/ML
 
----
+## 🧰 Skills & Tools
 
-## 🧰 Skills
-
-### 🔧 Languages & Development Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="42" title="C++"/>
@@ -26,29 +21,21 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
-</p>
-
----
-
-### 📊 Data Science & Analytics Stack
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" title="Scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="42" title="Matplotlib (matplotlib.pyplot)"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" width="42" title="Seaborn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" title="Jupyter Notebook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="42" title="Anaconda"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="42" title="Power BI"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="42" title="Microsoft Excel"/>
-</p>
-
----
-
-### 🧠 Core Competencies
-<p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="42" title="Machine Learning (Regression, Classification, Clustering)"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4149/4149644.png" width="42" title="Exploratory Data Analysis (EDA)"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="42" title="Data Visualization & Business Intelligence"/>
   <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="42" title="API Development & Full-Stack Basics"/>
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="42" title="Problem Solving & Algorithm Design"/>
+  
 </p>
 
 
