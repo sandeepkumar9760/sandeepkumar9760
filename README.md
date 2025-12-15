@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 ## 📂 Featured Projects
 
 ### 📈 Airbnb Stock Price Prediction  
-🔗 **Repository:** [Airbnb Stock Price Prediction]([https://github.com/your-username/airbnb-stock-price-prediction])
+🔗 **Repository:** [Airbnb Stock Price Prediction](https://github.com/sandeepkumar9760/Airbnb-stock-prediction)
 
 - Developed a **machine learning regression model** combined with **technical analysis**
 - Predicted **Airbnb (ABNB) stock prices** using historical market data
