@@ -53,15 +53,7 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 
 ---
 
-### 🐍 Python Learning Repository  
-🔗 **Repository:** [Python Learning Repository](https://github.com/your-username/python-learning-repository)
 
-- Curated collection of **Python scripts and hands-on practice problems**
-- Implemented **data science algorithms** and logic-building exercises
-- Focused on **problem-solving, clean code, and fundamentals**
-- **Topics Covered:** Python Basics · DSA Concepts · Data Science Foundations
-
----
 
 
 ## 📊 GitHub Stats
