@@ -54,22 +54,10 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 
 ## 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/sandeep-kumar-ds" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         alt="LinkedIn" width="32" height="32"/>
-  </a>
-  
-  <a href="mailto:sandeepkumar270724@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-         alt="Email" width="32" height="32"/>
-  </a>
-  
-  <a href="https://github.com/sandeepkumar-ds">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-         alt="GitHub" width="32" height="32"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/sandeep-kumar-ds)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:sandeepkumar270724@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/sandeepkumar-ds)
+
 
 
 ## 🎯 What I'm Currently Working On
