@@ -1,5 +1,5 @@
 # Hey there! 👋 I'm Sandeep Kumar
-**Aspiring Data Scientist | ML Enthusiast | Python Developer**
+**Aspiring Data Scientist | ML Enthusiast**
 
 Welcome to my GitHub profile! I'm a computer science student at Lovely Professional University (LPU) passionate about **data science, machine learning, and building intelligent solutions** with data.
 </p>
