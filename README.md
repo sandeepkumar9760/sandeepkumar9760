@@ -96,3 +96,5 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 ### "Data is the new oil, and machine learning is the engine!" 🚀
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions!
+
+![Snake animation](https://github.com/Minhaj078/Minhaj078/blob/output/github-contribution-grid-snake.svg)
