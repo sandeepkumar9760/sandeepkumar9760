@@ -97,4 +97,5 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaborations or discussions!
 
-![Snake animation](https://github.com/sandeepkumar9760/sandeepkumar9760/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sandeepkumar9760/sandeepkumar9760/output/github-contribution-grid-snake.svg)
+
