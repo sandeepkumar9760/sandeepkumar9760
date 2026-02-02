@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepkumar9760&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepkumar9760&show_icons=true&theme=dark)&cache_seconds=1800
 
 ---
 
