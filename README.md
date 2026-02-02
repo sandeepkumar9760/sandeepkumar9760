@@ -58,8 +58,9 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepkumar9760&show_icons=true&theme=dark&cache_seconds=1800)
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumar9760&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkumar9760&layout=compact&theme=dark)---
 
 ## 🔗 Connect With Me
 
