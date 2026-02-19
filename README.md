@@ -72,7 +72,7 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
          alt="Email" width="32" height="32"/>
   </a>
   
-  <a href="https://github.com/sandeepkumar-ds">
+  <a href="https://github.com/sandeepkumar9760">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
          alt="GitHub" width="32" height="32"/>
   </a>
