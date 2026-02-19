@@ -63,9 +63,6 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumar9760&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-</div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkumar9760&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumar9760&theme=tokyonight&hide_border=true" />
