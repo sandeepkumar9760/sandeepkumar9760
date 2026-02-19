@@ -1,12 +1,4 @@
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sandeepkumar9760&color=0e75b6&style=flat-square)
-
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sandeep+Kumar!👋;Data+Scientist|ML+Enthusiast;Python|SQL|Power+BI;Building+Intelligent+Solutions!)](https://github.com/sandeepkumar9760)ist+%7C+ML+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Building+Intelligent+Solutions!" />
-</p>
-
-
 **Aspiring Data Scientist | ML Enthusiast | Backend Developer**
 
 Welcome to my GitHub profile! I'm a computer science student at Lovely Professional University passionate about **data science, machine learning, and building intelligent solutions** with data.
@@ -68,11 +60,6 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=sandeepkumar9760&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkumar9760&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumar9760&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
