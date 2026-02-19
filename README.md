@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=sandeepkumar9760&color=blue&style=flat-square)
 # Hey there! 👋 I'm Sandeep Kumar
 **Aspiring Data Scientist | ML Enthusiast | Backend Developer**
 
