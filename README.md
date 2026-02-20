@@ -68,8 +68,8 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepkumar9760&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkumar9760&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats-black-six-62.vercel.app/api?username=sandeepkumar9760&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats-black-six-62.vercel.app/api/top-langs/?username=sandeepkumar9760&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 </div>>
 
 <div align="center">
