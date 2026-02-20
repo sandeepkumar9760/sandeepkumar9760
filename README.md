@@ -5,9 +5,6 @@
 <h2>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2000&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Backend+Developer;Data+Scientist" />
 </h2>
-![Profile Views](https://komarev.com/ghpvc/?username=sandeepkumar9760&color=0e75b6&style=flat-square)
-
-
 **Aspiring Data Scientist | ML Enthusiast | Backend Developer**
 </div>
 
