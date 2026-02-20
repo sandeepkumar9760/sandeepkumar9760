@@ -1,7 +1,12 @@
 <div align="center">
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=5000&color=0E75B6&center=true&vCenter=true&width=650&lines=Sandeep+Kumar;Machine+Learning+Engineer;Backend+Developer;Data+Scientist" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:4B6CB7&height=180&section=header&text=&fontSize=0" width="100%"/>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Sandeep+Kumar;Machine+Learning+Engineer;Backend+Developer;Data+Scientist" />
 </h1>
+
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sandeepkumar9760&color=0e75b6&style=flat-square)
 
