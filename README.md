@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:6A0DAD&height=220&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:141E30,100:243B55&text=Sandeep%20Kumar&fontSize=60&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=2000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Sandeep+Kumar;Machine+Learning+Engineer;Backend+Developer;Data+Scientist" />
-</h1>
-
-
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2000&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Backend+Developer;Data+Scientist" />
+</h2>
 ![Profile Views](https://komarev.com/ghpvc/?username=sandeepkumar9760&color=0e75b6&style=flat-square)
 
 
