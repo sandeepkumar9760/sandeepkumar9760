@@ -5,7 +5,7 @@
 <h2>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2000&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Backend+Developer;Data+Scientist" />
 </h2>
-**Aspiring Data Scientist | ML Enthusiast | Backend Developer**
+***Aspiring Data Scientist | ML Enthusiast | Backend Developer***
 </div>
 
 Welcome to my GitHub profile! I'm a computer science student at Lovely Professional University passionate about **data science, machine learning, and building intelligent solutions** with data.
