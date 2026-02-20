@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sandeepkumar9760&color=0e75b6&style=flat-square)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sandeep+Kumar+👋;Data+Scientist+%7C+ML+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Building+Intelligent+Solutions!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hey+there%21+I%27m+Sandeep+Kumar;Data+Scientist+%7C+ML+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Building+Intelligent+Solutions" alt="Typing SVG" />
 </h1>
 
 **Aspiring Data Scientist | ML Enthusiast | Backend Developer**
