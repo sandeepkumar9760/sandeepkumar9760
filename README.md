@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:141E30,100:243B55&text=Sandeep%20Kumar&fontSize=60&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=sandeepkumar9760&color=0e75b6&style=flat-square)
 
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2000&pause=2500&color=00F5FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Backend+Developer;Data+Scientist" />
-</h2>
-***Aspiring Data Scientist | ML Enthusiast | Backend Developer***
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sandeep+Kumar+👋;Data+Scientist+%7C+ML+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Building+Intelligent+Solutions!" alt="Typing SVG" />
+
+**Aspiring Data Scientist | ML Enthusiast | Backend Developer**
 
 Welcome to my GitHub profile! I'm a computer science student at Lovely Professional University passionate about **data science, machine learning, and building intelligent solutions** with data.
 
@@ -67,7 +65,10 @@ Welcome to my GitHub profile! I'm a computer science student at Lovely Professio
 
 ## 📊 GitHub Stats
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepkumar9760&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkumar9760&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumar9760&theme=tokyonight&hide_border=true" />
