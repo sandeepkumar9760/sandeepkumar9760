@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hey+there%21+I%27m+Sandeep+Kumar;Data+Scientist+%7C+ML+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hey+there%21+I%27m+Sandeep+Kumar;AI+%7C+ML+Engineer;Python+%7C+SQL+%7C+Power+BI;Building+Intelligent+Solutions" alt="Typing SVG" />
 </h1>
 
 **AI-ML Engineer | Backend Developer**
